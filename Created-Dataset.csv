@@ -1,4 +1,0 @@
-id,status,ip,latitude,longitude,send_date,reported,modified_date,email,first_name,last_name,position
-Deuh7g5,Error,,0,0,2026-02-06T04:47:00Z,false,2026-02-06T04:48:43.4725496Z,user1@test.com,user,1,a1
-oZMqCl0,Error,,0,0,2026-02-06T04:47:00Z,false,2026-02-06T04:48:43.4952722Z,user2@test.com,user,2,a2
-qB0JA37,Error,,0,0,2026-02-06T04:47:00Z,false,2026-02-06T04:48:43.5143803Z,user3@test.com,user,3,a3
