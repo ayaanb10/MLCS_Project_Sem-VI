@@ -1,5 +1,4 @@
 # MLCS_Exp2
-# MLCS LAB
 # Title:  Machine Learning for Phishing Detection: URL + Email based detection.
 # Type: Read-Only Documentation Code (For GitHub Repository)
 
