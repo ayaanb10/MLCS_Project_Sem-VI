@@ -1,0 +1,26 @@
+url,email_subject,email_body,label
+http://secure-update-paypal.com/login,Account Verification Required,Your PayPal account has been limited. Click the link to verify immediately.,TRUE
+http://account-verification-amazon.net,Important: Billing Update Needed,Your Amazon payment method failed. Update details now.,TRUE
+http://login-facebook-security-alert.com,Security Alert,We detected unusual activity. Confirm your password urgently.,TRUE
+http://bankofamerica-secure-login.net,Account Locked Notice,Your bank account is temporarily locked. Login to restore access.,TRUE
+http://update-netflix-billing-info.com,Netflix Subscription Suspended,Your subscription will expire today. Update payment details.,TRUE
+http://microsoft-reset-password-alert.net,Password Reset Required,Your Microsoft password must be reset immediately.,TRUE
+http://appleid-confirmation-login.com,Apple ID Confirmation,Confirm your Apple ID to avoid service interruption.,TRUE
+http://dropbox-account-warning.net,Dropbox Storage Full,Upgrade your storage by confirming account details.,TRUE
+http://instagram-security-check.com,Instagram Login Attempt,Someone tried logging in. Verify your account.,TRUE
+http://verify-chase-bank-login.net,Chase Bank Alert,Click here to verify your account credentials.,TRUE
+http://192.168.0.15/login,Internal Account Update,Update your credentials using the internal login page.,TRUE
+http://paypal.verify-user-account.com,Action Required Immediately,Failure to act will suspend your account permanently.,TRUE
+https://google.com,Welcome to Google,Explore our new features and updates.,FALSE
+https://github.com,GitHub Notification,You have new pull request activity.,FALSE
+https://amazon.in,Order Confirmation,Your recent order has been successfully placed.,FALSE
+https://microsoft.com,Microsoft Newsletter,Discover the latest Microsoft innovations.,FALSE
+https://stackoverflow.com,StackOverflow Digest,Top programming discussions this week.,FALSE
+https://wikipedia.org,Wikipedia Update,See what’s trending on Wikipedia.,FALSE
+https://openai.com,Product Update,Learn about our latest AI research.,FALSE
+https://linkedin.com,Connection Request,You have new professional connection requests.,FALSE
+https://apple.com,Apple Product Launch,Introducing our newest device lineup.,FALSE
+https://twitter.com,Weekly Summary,See highlights from your timeline.,FALSE
+https://flipkart.com,Special Sale Offer,Check out discounts on your favorite items.,FALSE
+https://coursera.org,Course Reminder,Your enrolled course starts tomorrow.,FALSE
+https://kaggle.com,Competition Update,New datasets available for analysis.,FALSE
