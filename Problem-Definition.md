@@ -1,14 +1,10 @@
 # MLCS_Exp2
-# ==============================================================
 # MLCS LAB
-# Title: Defining a Machine Learning Problem for Phishing Detection
+# Title:  Machine Learning for Phishing Detection: URL + Email based detection.
 # Type: Read-Only Documentation Code (For GitHub Repository)
-# ==============================================================
 
 
-# --------------------------------------------------------------
 # 1. Understand the Problem Domain
-# --------------------------------------------------------------
 # Cybersecurity focuses on protecting systems and users from
 # digital threats such as phishing, malware, spam, and intrusions.
 #
@@ -18,9 +14,7 @@
 # traditional rule-based detection ineffective.
 
 
-# --------------------------------------------------------------
 # 2. Articulate the Problem Statement
-# --------------------------------------------------------------
 # Problem Statement:
 # Develop a machine learning model that classifies websites
 # as phishing or legitimate with at least 90% accuracy.
@@ -31,9 +25,7 @@
 # and reduce financial and user impact.
 
 
-# --------------------------------------------------------------
 # 3. Identify Input Data Requirements
-# --------------------------------------------------------------
 # Required Data Features:
 #
 # - URL-based features:
@@ -62,9 +54,7 @@
 # - Ensure no personal data is collected
 
 
-# --------------------------------------------------------------
 # 4. Define Output Requirements
-# --------------------------------------------------------------
 # Output:
 # - Binary classification result
 #   0 → Legitimate website
@@ -83,9 +73,7 @@
 # - Prediction time less than 1 second per URL
 
 
-# --------------------------------------------------------------
 # 5. Establish Constraints and Assumptions
-# --------------------------------------------------------------
 # Constraints:
 # - Real-time detection required
 # - Limited labeled phishing data
@@ -100,9 +88,7 @@
 #   legitimate websites
 
 
-# --------------------------------------------------------------
 # 6. Evaluate Feasibility and Impact
-# --------------------------------------------------------------
 # Feasibility:
 # - Lightweight models such as:
 #   * Logistic Regression
@@ -119,9 +105,7 @@
 #   and web security tools
 
 
-# --------------------------------------------------------------
 # 7. Document and Refine
-# --------------------------------------------------------------
 # Documentation:
 # - Maintain clear README files
 # - Track datasets and model versions
@@ -133,6 +117,3 @@
 # - Update datasets regularly
 # - Improve features based on new attack patterns
 # - Incorporate stakeholder feedback
-
-
-# ========================== END ===============================
